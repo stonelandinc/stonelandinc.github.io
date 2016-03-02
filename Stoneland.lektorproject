@@ -1,6 +1,0 @@
-[project]
-name = Stoneland
-
-
-[servers.ghpages]
-target = ghpages+https://stonelandinc/stonelandinc.github.io
